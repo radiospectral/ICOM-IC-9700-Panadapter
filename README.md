@@ -3,11 +3,11 @@ RF out for ICOM-IC-9700
 
 DISCLAIMER:
 We are not responsible for any damage to your radio, and this is at your own risk operation.
-If you don not have the basic electronic knowledge, we do not suggest you attempt to build this unit.
+If you don't have the basic electronic knowledge, we do not suggest you attempt to build this unit.
 
 SCHEMATICS-ICOM-IC-9700-Panadapter.pdf : Schematic file.
 
-gerber.zip                             : Zip archive constains gerber files for the PCB manufacturing.
+gerber.zip                             : Zip archive, constains gerber files for the PCB manufacturing.
                                          You can use jlcpcb.com to order ready to use PCBs.
 
 pcb-manufacture.png                    : PCB manufacturing settings for jlcpcb.com
